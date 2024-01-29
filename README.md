@@ -1,1 +1,4 @@
-# playwright-pom
+# playwright
+
+# Run Tests
+npm run test
